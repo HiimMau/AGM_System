@@ -8,5 +8,9 @@ namespace AGM.Clases
 {
     class Clientes
     {
+        private String Nombre;
+        private int Cedula;
+        private String Direccion;
+        private String correo;
     }
 }

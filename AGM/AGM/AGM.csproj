@@ -44,10 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\Clientes.cs" />
-    <Compile Include="Clases\Distribuidores.cs" />
-    <Compile Include="Clases\Productos.cs" />
-    <Compile Include="Clases\Usuarios.cs" />
+    <Compile Include="Modelo\MO_Clientes.cs" />
+    <Compile Include="Modelo\MO_Productos.cs" />
+    <Compile Include="Modelo\MO_Proveedores.cs" />
+    <Compile Include="Modelo\MO_Usuarios.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +64,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

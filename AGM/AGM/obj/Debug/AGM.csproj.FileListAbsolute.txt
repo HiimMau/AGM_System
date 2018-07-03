@@ -7,3 +7,11 @@ C:\Users\Alejo\Desktop\Analisis 2\AGM\AGM\obj\Debug\AGM.Properties.Resources.res
 C:\Users\Alejo\Desktop\Analisis 2\AGM\AGM\obj\Debug\AGM.csproj.GenerateResource.Cache
 C:\Users\Alejo\Desktop\Analisis 2\AGM\AGM\obj\Debug\AGM.exe
 C:\Users\Alejo\Desktop\Analisis 2\AGM\AGM\obj\Debug\AGM.pdb
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.csprojAssemblyReference.cache
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.Login.resources
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.Principal.resources
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.Properties.Resources.resources
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.csproj.GenerateResource.cache
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.exe
+C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.pdb

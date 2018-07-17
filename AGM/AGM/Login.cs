@@ -19,6 +19,7 @@ namespace AGM
         }
 
         Thread th;
+        Thread go;
 
 
         private void label1_Click(object sender, EventArgs e)
@@ -47,14 +48,20 @@ namespace AGM
 
         private void Opennewform(object obj)
         {
-            Application.Run(new Principal());
+            Application.Run(new FrmUsuario());
         }
+
+        private void Opennewform1(object obj)
+        {
+            Application.Run(new Administrador());
+        }
+
 
 
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            if (txtUsuario.Text == "admin" && txtContraseña.Text == "123456")
+            if (txtUsuario.Text == "alejo" && txtContraseña.Text == "123456")
             {
                 MessageBox.Show("BIENVENIDO", "Login", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
@@ -65,8 +72,19 @@ namespace AGM
                 th.Start();
                 Close();
             }
-            else
+
+            if (txtUsuario.Text == "admin" && txtContraseña.Text == "alejo")
             {
+                go = new Thread(Opennewform1);
+                go.SetApartmentState(ApartmentState.STA);
+                go.Start();
+                Close();
+            }
+
+            else  
+
+            {
+
                 MessageBox.Show("USUARIO O CONTRASEÑA INCORRECTA", "Login", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }

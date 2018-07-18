@@ -15,3 +15,19 @@ C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.csproj.Gen
 C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.csproj.CoreCompileInputs.cache
 C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.exe
 C:\Users\Gustavo Poveda\Source\Repos\AGM_System\AGM\AGM\obj\Debug\AGM.pdb
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.Login.resources
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.Principal.resources
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.exe
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.pdb
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\bin\Debug\AGM.exe.config
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\bin\Debug\AGM.exe
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\bin\Debug\AGM.pdb
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\bin\Debug\EntityFramework.dll
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\bin\Debug\EntityFramework.xml
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.Administrador.resources
+C:\Users\Alejandro\Desktop\AGM_System\AGM\AGM\obj\Debug\AGM.FrmUsuario.resources
